@@ -1,0 +1,9 @@
+{
+    "description": "微软开源PowerShell",
+    "version": "7.1.0",
+    "url": "https://github-production-release-asset-2e65be.s3.amazonaws.com/49609581/97837100-f1e5-11ea-8584-cf7adf4ed48b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200925%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200925T014636Z&X-Amz-Expires=300&X-Amz-Signature=5265e348675e97917c3a2aad83c6ff5b5cd11effc08f2c32651f518ddbf4b42c&X-Amz-SignedHeaders=host&actor_id=34829398&key_id=0&repo_id=49609581&response-content-disposition=attachment%3B%20filename%3DPowerShell-7.1.0-preview.7-win-x64.msi&response-content-type=application%2Foctet-stream",
+    "extension": "msi",
+    "launchers": [
+        "pwsh.exe"
+    ]
+}
